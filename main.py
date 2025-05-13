@@ -6,7 +6,7 @@ st.set_page_config(page_title="MBTI 진로 추천", page_icon="🧭", layout="ce
 
 # 타이틀
 st.markdown("<h1 style='text-align: center; color: #ff69b4;'>🌟 MBTI로 알아보는 진로 추천 💼</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; font-size:20px;'>✨ 헬로헬로 당신의 성격에 꼭 맞는 직업을 추천해드려요! ✨</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size:20px;'>✨ 헬로헬로~~ 당신의 성격에 꼭 맞는 직업을 추천해드려요! ✨</p>", unsafe_allow_html=True)
 st.markdown("---")
 
 # MBTI 선택
